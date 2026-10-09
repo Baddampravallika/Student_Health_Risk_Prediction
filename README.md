@@ -1,5 +1,7 @@
 # Student Health Risk Prediction(multi-task-project using Functional API)
 
+# DATASET LINK:- https://www.kaggle.com/competitions/playground-series-s6e7/data?utm_source=chatgpt.com
+
 A Artificial Neural Network web application that predicts a student's health-condition category and estimates a numerical health-risk score from lifestyle and physical activity information. The project combines **classification and regression** in a single neural network and provides an interactive interface built with Streamlit.
 
 
